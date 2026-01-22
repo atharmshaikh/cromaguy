@@ -1,6 +1,6 @@
 # **Hello, World!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="waving hand" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=250&section=header&text=Anjishnu%20Nandi&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Tech%20Explorer%20|%20Developer%20|%20Innovator&descAlignY=60&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Anjishnu%20Nandi&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=FAFAFA&desc=Tech%20Explorer%20|%20Developer%20|%20Innovator&descAlignY=60&descSize=20&descColor=E6E6E6)
 
 <p align="center">
   <sub>
