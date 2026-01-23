@@ -89,10 +89,6 @@ class Anjishnu:
 
 <br/>
 
-<p align="center">
-    <sub>Consistency and long-term contribution discipline</sub>
-</p>
-
 ## 🚀 Featured Projects
 <sub>Selected projects demonstrating real-world problem solving and product thinking</sub>
 
