@@ -9,10 +9,10 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/anjishnu-nandi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="24"/></a>
-  <a href="https://twitter.com/AnjiCroma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="24"/></a>
-  <a href="https://instagram.com/its.chroma.anji"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="24"/></a>
-  <a href="mailto:anjicroma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="24"/></a>
+  <a href="https://linkedin.com/in/anjishnu-nandi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="30"/></a>
+  <a href="https://twitter.com/AnjiCroma"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" height="30"/></a>
+  <a href="https://instagram.com/its.chroma.anji"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="30"/></a>
+  <a href="mailto:anjicroma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
 </div>
 
 <br>
@@ -74,14 +74,11 @@ class Anjishnu:
   <sub>Consistency, and long-term contribution discipline</sub>
 </p>
 
-<br/>
-
 <table align="center">
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=cromaguy&theme=transparent&hide_border=true"
-        alt="Contribution Streak"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=cromaguy&theme=transparent&hide_border=true" alt="Contribution Streak"
       />
     </td>
   </tr>
@@ -90,15 +87,18 @@ class Anjishnu:
 <br/>
 
 ## 🚀 Featured Projects
-<sub>Selected projects demonstrating real-world problem solving and product thinking</sub>
+<p align="center">
+  <sub>Selected projects demonstrating real-world problem solving and product thinking</sub>
+</p>
 
+<!-- Primary Featured Project -->
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/cromaguy/Rhythm">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Rhythm&theme=default&cache_seconds=86400"
-          width="380"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Rhythm&theme=default&cache_seconds=86400&hide_border=false"
+          width="400"
           alt="Rhythm: Android Music App"
         />
       </a>
@@ -106,14 +106,13 @@ class Anjishnu:
   </tr>
 </table>
 
-<br/>
-
+<!-- Supporting Projects -->
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/cromaguy/StudySkill">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=StudySkill&theme=default&cache_seconds=86400"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=StudySkill&theme=default&cache_seconds=86400&hide_border=false"
           width="380"
           alt="StudySkill Web"
         />
@@ -122,7 +121,7 @@ class Anjishnu:
     <td align="center">
       <a href="https://github.com/cromaguy/Feel-Android-App">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Feel-Android-App&theme=default&cache_seconds=86400"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=cromaguy&repo=Feel-Android-App&theme=default&cache_seconds=86400&hide_border=false"
           width="380"
           alt="Feel Android App"
         />
